@@ -1,1 +1,1 @@
-# js-commands
+# nightbot-commands
